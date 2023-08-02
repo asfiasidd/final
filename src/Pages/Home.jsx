@@ -85,12 +85,12 @@ export default function Home() {
               <div className="responsive-card">
                 <div className="responsive-imgbox">
                   <img
-                    src="https://media.istockphoto.com/id/1177589023/photo/light-bulb-hanging-by-the-ceiling-in-a-restaurant.webp?b=1&s=170667a&w=0&k=20&c=WEBVPscDAL3MiPrWWzbgrA3qupXbq3RG4lsQkao0qhw="
+                    src="https://images.unsplash.com/photo-1601924638867-3a6de6b7a500?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=870&q=80"
                     className="responsive-img"
                   />
                 </div>
                 <div className="responsive-content">
-                  <h2>Lights</h2>
+                  <h2>High heels</h2>
                   <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   </p>
@@ -102,7 +102,7 @@ export default function Home() {
               <div className="responsive-card">
                 <div className="responsive-imgbox">
                   <img
-                    src="https://st3.depositphotos.com/1177973/15307/i/600/depositphotos_153075942-stock-photo-jewelry-accessories-in-box.jpg"
+                    src="https://media.istockphoto.com/id/1216928523/photo/elegant-jewelry-set-of-white-gold-ring-necklace-and-earrings-with-diamonds.webp?b=1&s=170667a&w=0&k=20&c=UCtXFxr_5mz3FW-tlxrV57IhhuNsFoIkHaBXaZWLALQ="
                     className="responsive-img"
                   />
                 </div>
@@ -119,12 +119,12 @@ export default function Home() {
               <div className="responsive-card">
                 <div className="responsive-imgbox">
                   <img
-                    src="https://www.webbikeworld.com/wp-content/uploads/2020/08/wallpaperflare.com_wallpaper-2.jpg"
+                    src="https://images.unsplash.com/photo-1511335413948-b5966e4e1d01?ixlib=rb-4.0.3&ixid=M3wxMjA3fDB8MHxwaG90by1wYWdlfHx8fGVufDB8fHx8fA%3D%3D&auto=format&fit=crop&w=873&q=80"
                     className="responsive-img"
                   />
                 </div>
                 <div className="responsive-content">
-                  <h2>Motorcycle</h2>
+                  <h2>Hand Bag</h2>
                   <p>
                     Lorem ipsum dolor sit amet consectetur adipisicing elit.
                   </p>

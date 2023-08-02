@@ -208,11 +208,11 @@ export default function SignIn() {
       </div>
 
       {/* Footer */}
-      <footer className="footer" style={{ backgroundColor: 'gray', marginTop: '800px' }}>
+      <footer className="footer" style={{ backgroundColor: 'rgb(219, 170, 219)', marginTop: '800px' }}>
         <div className="footer__container">
           <div className="footer__top">
             <div className="company__info">
-              <h2 className="company__logo">ZM STORE</h2>
+              <h2 className="company__logo">Baazar Of Pakistan</h2>
               <p className="company__description">
                 Lorem ipsum dolor sit amet consectetur adipisicing elit. Facere, iure. Harum, animi dolores, nam, ad
                 magni expedita.
@@ -287,7 +287,7 @@ export default function SignIn() {
       {/* Copyright */}
       <div className="container-fluid copyright-section">
         <p className="p-0">
-          copyright @ 2023 ZM Store All Rights Reserved <span className="gap"></span>Designed by WANIA KHAN.
+          copyright @ 2023 Baazar Of Pakistan All Rights Reserved <span className="gap"></span>CEO Umaima Farooq
         </p>
       </div>
     </>
